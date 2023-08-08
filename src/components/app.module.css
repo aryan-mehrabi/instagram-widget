@@ -1,0 +1,17 @@
+.wrapper {
+  position: fixed;
+  top: 30px;
+  left: 30px;
+}
+.container {
+  position: absolute;
+}
+.close_button {
+  border-radius: 50%;
+  background-color: #ffffff;
+  box-shadow: 0 0 15px #a19696;
+  padding: 12px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
